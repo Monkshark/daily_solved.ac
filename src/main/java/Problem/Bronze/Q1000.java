@@ -1,4 +1,4 @@
-package Problem;
+package Problem.Bronze;
 
 import java.util.*;
 import java.io.*;
