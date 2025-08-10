@@ -10,7 +10,7 @@ public class Q2440 {
 
         while (N --> 0) {
             for (int i = 0; i < N; i++) System.out.print("*");
-            System.out.println();
+            System.out.print("\n");
         }
     }
 }
